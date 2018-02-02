@@ -1,0 +1,4 @@
+[submodule "logistics-microservice-soaring-clouds-sequel"]
+	path = logistics-microservice-soaring-clouds-sequel
+	url = https://github.com/lucasjellema/logistics-microservice-soaring-clouds-sequel
+	branch = master
