@@ -2,3 +2,7 @@
 	path = logistics-microservice-soaring-clouds-sequel
 	url = https://github.com/lucasjellema/logistics-microservice-soaring-clouds-sequel
 	branch = master
+[submodule "orders-microservice-soaring-clouds-sequel"]
+	path = orders-microservice-soaring-clouds-sequel
+	url = https://github.com/luisw19/orders-microservice-soaring-clouds-sequel
+	branch = master
