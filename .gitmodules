@@ -6,3 +6,7 @@
 	path = orders-microservice-soaring-clouds-sequel
 	url = https://github.com/luisw19/orders-microservice-soaring-clouds-sequel
 	branch = master
+[submodule "loyaltyprogrammicroservice"]
+	path = loyaltyprogrammicroservice
+	url = https://github.com/LinkRedCloud/loyaltyprogrammicroservice
+	branch = master
