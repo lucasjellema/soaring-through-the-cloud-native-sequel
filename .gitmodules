@@ -18,3 +18,7 @@
 	path = financials-microservice-soaring-clouds-sequel
 	url = https://github.com/svenbernhardt/financials-microservice-soaring-clouds-sequel
 	branch = master
+[submodule "webshop-portal-soaring-through-the-cloud-native-sequel"]
+	path = webshop-portal-soaring-through-the-cloud-native-sequel
+	url = https://github.com/lucasjellema/webshop-portal-soaring-through-the-cloud-native-sequel
+	branch = master
