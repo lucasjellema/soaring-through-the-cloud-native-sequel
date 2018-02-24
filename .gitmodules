@@ -14,3 +14,7 @@
 	path = product-soaring-clouds-sequel
 	url = https://github.com/gschmutz/product-soaring-clouds-sequel
 	branch = master
+[submodule "financials-microservice-soaring-clouds-sequel"]
+	path = financials-microservice-soaring-clouds-sequel
+	url = https://github.com/svenbernhardt/financials-microservice-soaring-clouds-sequel
+	branch = master
