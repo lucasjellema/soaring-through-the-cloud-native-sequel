@@ -22,3 +22,7 @@
 	path = webshop-portal-soaring-through-the-cloud-native-sequel
 	url = https://github.com/lucasjellema/webshop-portal-soaring-through-the-cloud-native-sequel
 	branch = master
+[submodule "customer-microservice-soaring-clouds-sequel"]
+	path = customer-microservice-soaring-clouds-sequel
+	url = https://github.com/ldikmans/customer-microservice-soaring-clouds-sequel
+	branch = master
